@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="left-up" width="8" height="10" tilewidth="40" tileheight="40" nextobjectid="6">
+ <tileset firstgid="1" name="未标题-1" tilewidth="40" tileheight="40" tilecount="88" columns="11">
+  <image source="未标题-1.jpg" width="454" height="340"/>
+ </tileset>
+ <layer name="Layer1" width="8" height="10">
+  <properties>
+   <property name="Collidable" value="true"/>
+  </properties>
+  <data encoding="base64">
+   AQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAAAAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAAAAAA=
+  </data>
+ </layer>
+ <objectgroup name="object1">
+  <object id="4" name="sprite" x="104" y="42" width="78" height="81"/>
+  <object id="5" x="200" y="-82" width="16" height="82"/>
+ </objectgroup>
+</map>
